@@ -2,77 +2,81 @@
 
 
 		.icon {
-			background-image: url('/assets/images/sprites/sprite-193cee84.svg');
+			background-image: url('/assets/images/sprites/sprite-db4c90ad.svg');
+		}
+
+		.no-svg .icon {
+			background-image: url('/assets/images/sprites/sprite-db4c90ad.png');
 		}
 	
 	.icon--comment {
-		width: 64px;
-		height: 64px;
-		background-position: 15.300546448087431% 34.523809523809526%;
+		width: 66px;
+		height: 66px;
+		background-position: 16.216216216216218% 34.883720930232556%;
 	}
 	
 	.icon--facebook {
-		width: 21.23px;
-		height: 42.01px;
-		background-position: 69.09686849448553% 30.52792252223801%;
+		width: 23.23px;
+		height: 44.01px;
+		background-position: 27.220441673618122% 88.66436414248157%;
 	}
 	
 	.icon--globe {
-		width: 64px;
-		height: 64px;
-		background-position: 50.27322404371585% 34.523809523809526%;
+		width: 66px;
+		height: 66px;
+		background-position: 51.891891891891895% 34.883720930232556%;
 	}
 	
 	.icon--instagram {
-		width: 42.01px;
-		height: 42.01px;
-		background-position: 29.26972047416947% 88.42570661613769%;
+		width: 44.01px;
+		height: 44.01px;
+		background-position: 41.175902217498425% 88.66436414248157%;
 	}
 	
 	.icon--mail {
-		width: 64px;
-		height: 48px;
+		width: 66px;
+		height: 50px;
 		background-position: 100% 0;
 	}
 	
 	.icon--star {
-		width: 64px;
-		height: 64px;
-		background-position: 100% 28.571428571428573%;
+		width: 66px;
+		height: 66px;
+		background-position: 100% 29.069767441860463%;
 	}
 	
 	.icon--stinky-cheese {
-		width: 45px;
-		height: 37px;
-		background-position: 13.861386138613861% 62.56410256410256%;
+		width: 47px;
+		height: 39px;
+		background-position: 14.705882352941176% 63.31658291457286%;
 	}
 	
 	.icon--twitter {
-		width: 51.78px;
-		height: 42.06px;
-		background-position: 93.74039545128574% 58.96598925976624%;
+		width: 53.78px;
+		height: 44.06px;
+		background-position: 93.80387384646588% 59.812313086521605%;
 	}
 	
 	.icon--wifi {
-		width: 60px;
-		height: 64px;
+		width: 62px;
+		height: 66px;
 		background-position: 0 100%;
 	}
 	
 	.icon--wine-cheese-escapes {
-		width: 183px;
-		height: 58px;
+		width: 185px;
+		height: 60px;
 		background-position: 0 0;
 	}
 	
 	.icon--wineBottle {
-		width: 28px;
-		height: 110px;
-		background-position: 0 47.540983606557376%;
+		width: 30px;
+		height: 112px;
+		background-position: 0 47.61904761904762%;
 	}
 	
 	.icon--youtube {
-		width: 34.75px;
-		height: 42px;
-		background-position: 48.06124852767962% 88.42105263157895%;
+		width: 36.75px;
+		height: 44px;
+		background-position: 60.3220536756126% 88.65979381443299%;
 	}

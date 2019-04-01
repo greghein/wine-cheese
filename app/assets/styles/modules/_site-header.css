@@ -43,7 +43,7 @@
 			padding: 25px 36px;
 
 			.site-header--dark & {
-				transform: scale(.57);
+				transform: scale(.56);
 			}
 		}
 	}
